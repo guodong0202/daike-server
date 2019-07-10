@@ -1,4 +1,4 @@
-[Author JianShu Blog] (https://www.jianshu.com/p/b6cb331341ca)
+[Author JianShu Blog](https://www.jianshu.com/p/b6cb331341ca)
 
 ## 启动
 ```
